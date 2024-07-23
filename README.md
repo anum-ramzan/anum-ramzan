@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anum-ramzan
 - 👀 I’m interested in ... developing and coding applications
-- 🌱 I’m currently learning ... frontend languages
+- 🌱 I’m currently updating with ... new front/back end frameworks i.e. Blazor, React
 - 💞️ I’m looking to collaborate on ... big ideas
 - 📫 How to reach me ... is via my mailing address that is anumramzan_@outlook.com
 
